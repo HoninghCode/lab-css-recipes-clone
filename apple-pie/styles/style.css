@@ -1,3 +1,20 @@
+body {
+  margin: 0;
+}
+
 .header-image {
-  width: 100%;
+  font-size: 5em;
+  text-align: center;
+  margin: 0;
+  color: white;
+  padding: 300px;
+  background-image: url('../images/apple-pie.jpg');
+  background-position: center center;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style-type: '- ';
+  /* background-image: url('../images/apple-pie.jpg') */
 }
